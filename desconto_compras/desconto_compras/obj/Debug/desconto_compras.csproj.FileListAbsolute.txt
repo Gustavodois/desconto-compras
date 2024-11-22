@@ -1,0 +1,7 @@
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\obj\Debug\desconto_compras.csproj.AssemblyReference.cache
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\obj\Debug\desconto_compras.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\bin\Debug\desconto_compras.exe.config
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\bin\Debug\desconto_compras.exe
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\bin\Debug\desconto_compras.pdb
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\obj\Debug\desconto_compras.exe
+C:\Users\gustavo.fanjos1\source\repos\desconto_compras\desconto_compras\obj\Debug\desconto_compras.pdb
